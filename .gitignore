@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+venv/
+
+embeddings.npy
+vector.index
+cluster_model.pkl
+reducer.pkl
+documents.pkl
